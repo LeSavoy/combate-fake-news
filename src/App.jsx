@@ -27,7 +27,7 @@ function App() {
           className="w-[650px] h-[300px] bg-[#2d3e50] rounded-lg text-white flex flex-col items-center"
         >
           <p className="mt-12 text-2xl mb-28">
-            Clique abaixo para baixar sem material
+            Clique abaixo para baixar seu material
           </p>
           <a
             href="https://drive.google.com/file/d/1gSQLLf5C-UTlmmK9CzI4jjBth1AU50eU/view?usp=sharing"
